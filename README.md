@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 Here are some ideas to get you started:
@@ -20,9 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Shinta 👋
 
-> **About Me:** Passionate about turning data and code into meaningful solutions. I love building things, solving complex problems, and continuously learning new technologies.
-
----
+<!--> **About Me:** Passionate about turning data and code into meaningful solutions. I love building things, solving complex problems, and continuously learning new technologies.
 
 ### 💼 Current Status & Role
 
@@ -37,13 +33,6 @@ Here are some ideas to get you started:
 | Category | Technologies |
 | :--- | :--- |
 | **Tools & Platforms** | Python, Tableau, Looker, Quicksight, SQL (PostgreSQL, BigQuery, Redshift) |
-
----
-
-### 🚀 Projects & Portfolio
-
-* **[Project Name 1](https://github.com/shintaprima/repo-name)** – Brief description of what the project does and the tech stack used.
-* **[Project Name 2](https://github.com/shintaprima/repo-name)** – Brief description of your second highlighted project or contribution.
 
 🌐 **Explore more about me and my work:** [portfolio shinta](http://s.id/portfolio-shinta)
 
